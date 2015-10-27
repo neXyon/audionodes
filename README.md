@@ -9,3 +9,8 @@ Note: You can only playback the sounds in the node editor, but not do anything e
 
 Warning: You can't stop playback, so if you choose a very long sound it will play until the end. An unlimited sine will play forever (ie. until you close Blender).
 
+Screenshot
+----------
+
+![Screenshot of the demo file](https://raw.github.com/neXyon/audionodes/master/screenshot.png)
+
